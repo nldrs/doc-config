@@ -287,8 +287,7 @@ MSConfig.FormAjax("#testForm");
 
 
 
-<!-->
-引用的内容地址
+
 [Toastr-1]:http://p20ez4smj.bkt.clouddn.com/toastr-1.png
 [Toastr-2]:http://ww1.sinaimg.cn/large/006uNFWmgy1fo4pa1e2q1j31d60otn92.jpg
 [Swal-1]:http://p20ez4smj.bkt.clouddn.com/swal-1.png
@@ -306,4 +305,4 @@ MSConfig.FormAjax("#testForm");
 [code-6]:http://p20ez4smj.bkt.clouddn.com/code-6.png
 [code-7]:http://p20ez4smj.bkt.clouddn.com/code-7.png
 [code-8]:http://p20ez4smj.bkt.clouddn.com/code-8.png
-<-->
+
